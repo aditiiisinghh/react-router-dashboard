@@ -1,6 +1,6 @@
 # 🚀 React Router Dashboard
 
-A sleek, modern multi-page dashboard application built with **React Router** and **Tailwind CSS**. This project demonstrates clean routing architecture, reusable components, and responsive UI design.
+A sleek, modern multi-page dashboard application built with **React Router** and **Tailwind CSS**. This project demonstrates clean routing architecture, reusable components, & responsive UI design.
 
 ---
 
